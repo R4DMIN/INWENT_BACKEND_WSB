@@ -1,0 +1,9 @@
+# ignore modules
+/node_modules
+
+# ignore env varible 
+/.env
+/.env.test
+
+# ignore upload dir
+/upload
